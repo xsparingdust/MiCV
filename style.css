@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cabin:ital@1&display=swap');
+
+header{background-image: url("img/Fondo.jpg");background-position: center;background-repeat: no-repeat;background-size: cover;font-family: 'Cabin', sans-serif}
+main{font-size: 15px;line-height: 25px;
+    font-family: 'Cabin', sans-serif;}
+h1 {color: #4d7c8f;letter-spacing:10PX;text-align: center;background-color: #c4c4c4;}
+h2{background-color:#c4c4c4 ;color:#4d7c8f ;letter-spacing: 10px;}
+dt{font-weight:700;}
+footer {background-color: #4d7c8f;color: white;text-align: center;font-weight: bold;font-size:20px;padding: 5px;}
+.estilo{font-weight: bold;}
+span{font-weight: 100;}
